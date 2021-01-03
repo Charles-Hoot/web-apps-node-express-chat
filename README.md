@@ -5,8 +5,8 @@
 
 ## Links
 
-- [Demo](https://node-express-chat-563.herokuapp.com/)
-- [Source](https://github.com/denisecase/node-express-chat)
+- [Hosted Page](https://node-express-chat-563.herokuapp.com/)
+-  [Repo](https://github.com/charles-hoot/web-apps-node-express-chat)
 
 ## Requirements
 
